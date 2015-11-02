@@ -1,0 +1,14 @@
+D:\Users\Dino\Documents\Visual Studio 2013\Projects\RepacMonoLevel2\CarSaloon.DAL\bin\Debug\CarSaloon.DAL.dll.config
+D:\Users\Dino\Documents\Visual Studio 2013\Projects\RepacMonoLevel2\CarSaloon.DAL\bin\Debug\CarSaloon.DAL.dll
+D:\Users\Dino\Documents\Visual Studio 2013\Projects\RepacMonoLevel2\CarSaloon.DAL\bin\Debug\CarSaloon.DAL.pdb
+D:\Users\Dino\Documents\Visual Studio 2013\Projects\RepacMonoLevel2\CarSaloon.DAL\bin\Debug\CarSaloon.Model.Common.dll
+D:\Users\Dino\Documents\Visual Studio 2013\Projects\RepacMonoLevel2\CarSaloon.DAL\bin\Debug\CarSaloon.Model.dll
+D:\Users\Dino\Documents\Visual Studio 2013\Projects\RepacMonoLevel2\CarSaloon.DAL\bin\Debug\EntityFramework.dll
+D:\Users\Dino\Documents\Visual Studio 2013\Projects\RepacMonoLevel2\CarSaloon.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Users\Dino\Documents\Visual Studio 2013\Projects\RepacMonoLevel2\CarSaloon.DAL\bin\Debug\CarSaloon.Model.Common.pdb
+D:\Users\Dino\Documents\Visual Studio 2013\Projects\RepacMonoLevel2\CarSaloon.DAL\bin\Debug\CarSaloon.Model.pdb
+D:\Users\Dino\Documents\Visual Studio 2013\Projects\RepacMonoLevel2\CarSaloon.DAL\bin\Debug\EntityFramework.xml
+D:\Users\Dino\Documents\Visual Studio 2013\Projects\RepacMonoLevel2\CarSaloon.DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Users\Dino\Documents\Visual Studio 2013\Projects\RepacMonoLevel2\CarSaloon.DAL\obj\Debug\CarSaloon.DAL.csprojResolveAssemblyReference.cache
+D:\Users\Dino\Documents\Visual Studio 2013\Projects\RepacMonoLevel2\CarSaloon.DAL\obj\Debug\CarSaloon.DAL.dll
+D:\Users\Dino\Documents\Visual Studio 2013\Projects\RepacMonoLevel2\CarSaloon.DAL\obj\Debug\CarSaloon.DAL.pdb

@@ -1,0 +1,4 @@
+D:\Users\Dino\Documents\Visual Studio 2013\Projects\RepacMonoLevel2\CarSaloon.Service\bin\Debug\CarSaloon.Service.dll
+D:\Users\Dino\Documents\Visual Studio 2013\Projects\RepacMonoLevel2\CarSaloon.Service\bin\Debug\CarSaloon.Service.pdb
+D:\Users\Dino\Documents\Visual Studio 2013\Projects\RepacMonoLevel2\CarSaloon.Service\obj\Debug\CarSaloon.Service.dll
+D:\Users\Dino\Documents\Visual Studio 2013\Projects\RepacMonoLevel2\CarSaloon.Service\obj\Debug\CarSaloon.Service.pdb

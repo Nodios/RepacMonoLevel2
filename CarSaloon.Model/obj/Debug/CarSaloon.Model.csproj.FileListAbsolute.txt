@@ -1,0 +1,7 @@
+D:\Users\Dino\Documents\Visual Studio 2013\Projects\RepacMonoLevel2\CarSaloon.Model\bin\Debug\CarSaloon.Model.dll
+D:\Users\Dino\Documents\Visual Studio 2013\Projects\RepacMonoLevel2\CarSaloon.Model\bin\Debug\CarSaloon.Model.pdb
+D:\Users\Dino\Documents\Visual Studio 2013\Projects\RepacMonoLevel2\CarSaloon.Model\bin\Debug\CarSaloon.Model.Common.dll
+D:\Users\Dino\Documents\Visual Studio 2013\Projects\RepacMonoLevel2\CarSaloon.Model\bin\Debug\CarSaloon.Model.Common.pdb
+D:\Users\Dino\Documents\Visual Studio 2013\Projects\RepacMonoLevel2\CarSaloon.Model\obj\Debug\CarSaloon.Model.csprojResolveAssemblyReference.cache
+D:\Users\Dino\Documents\Visual Studio 2013\Projects\RepacMonoLevel2\CarSaloon.Model\obj\Debug\CarSaloon.Model.dll
+D:\Users\Dino\Documents\Visual Studio 2013\Projects\RepacMonoLevel2\CarSaloon.Model\obj\Debug\CarSaloon.Model.pdb

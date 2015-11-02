@@ -1,0 +1,5 @@
+D:\Users\Dino\Documents\Visual Studio 2013\Projects\RepacMonoLevel2\CarSaloon.Service.Common\bin\Debug\CarSaloon.Service.Common.dll
+D:\Users\Dino\Documents\Visual Studio 2013\Projects\RepacMonoLevel2\CarSaloon.Service.Common\bin\Debug\CarSaloon.Service.Common.pdb
+D:\Users\Dino\Documents\Visual Studio 2013\Projects\RepacMonoLevel2\CarSaloon.Service.Common\obj\Debug\CarSaloon.Service.Common.csprojResolveAssemblyReference.cache
+D:\Users\Dino\Documents\Visual Studio 2013\Projects\RepacMonoLevel2\CarSaloon.Service.Common\obj\Debug\CarSaloon.Service.Common.dll
+D:\Users\Dino\Documents\Visual Studio 2013\Projects\RepacMonoLevel2\CarSaloon.Service.Common\obj\Debug\CarSaloon.Service.Common.pdb
